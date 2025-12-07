@@ -1,74 +1,89 @@
-<!-- Profile Views Badge -->
-<img align="right" src="https://komarev.com/ghpvc/?username=BoondiKaLadu&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+<!-- Dino Header (add your own GIF if you like) -->
+<p align="center">
+  <!-- Replace the src below with any dinosaur GIF you like -->
+  <img src="https://your-dino-gif-url.com/dino.gif" alt="Dino" width="160" />
+</p>
 
-<!-- Typing Animation -->
-<h1 align="center">
-  <a href="https://github.com/BoondiKaLadu">
-    <img src="https://readme-typing-svg.demolab.com?size=32&duration=2500&pause=1000&multiline=true&width=600&lines=Hey+There!+I'm+Aditya+%F0%9F%91%8B;Developer+%7C+Tech+Explorer+%7C+Animator" alt="Typing SVG" />
+<h1 align="center">RAWR! I'm Aditya 🦖</h1>
+<h3 align="center">Ex-founder & Astute techie who loves mixing tech, art, and tiny dinosaurs.</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?size=24&duration=2500&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Node+%7C+Next.js+%7C+Tailwind+Enthusiast;Learning+Web3+and+Rust;Building+cool+things+since+the+Jurassic+era+🦕" alt="Typing SVG" />
+</p>
+
+---
+
+### 🌋 About Me
+
+- 🧠 I enjoy building **modern full-stack apps** that feel smooth and intuitive  
+- 🌱 Currently learning: **Web3** & **Rust**  
+- 🎨 I love combining **tech + art** to create aesthetic and useful projects  
+- 🦕 Fun fact: If something breaks, I *debug like a velociraptor*—fast and focused  
+
+---
+
+### 🦴 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-FFD600?style=for-the-badge&logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Electron-2C2E3B?style=for-the-badge&logo=electron&logoColor=white" />
+</p>
+
+---
+
+### 🌱 Learning in This Era
+
+> “Even dinosaurs evolve… the smart ones, at least.”
+
+- ⛓️ **Web3** – smart contracts, decentralized apps & new web primitives  
+- 🦀 **Rust** – performance, safety and low-level power  
+
+---
+
+### 🧪 Featured Projects (From the Dino Lab)
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🦕 **Course-selling-app** | Backend for a course selling platform with auth, routes, and non-SQL backend | Node, Express, JavaScript |
+| 🎼 **SimpMusic (fork)** | Simple music app powered by YouTube Music backend | Kotlin |
+| 🛡️ **Adversarial AI Framework (fork)** | Robust malware detection using adversarial AI techniques | Jupyter, ML |
+| 🌐 **100xDevs Cohort Projects** | WebDev + DevOps assignments, notes & experiments | JavaScript, Node |
+
+> Explore more fossils (repos) here: [@BoondiKaLadu](https://github.com/BoondiKaLadu?tab=repositories)
+
+---
+
+### 📊 Dino Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BoondiKaLadu&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=BoondiKaLadu&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BoondiKaLadu&label=Visitors+in+this+Era&color=blueviolet&style=for-the-badge" />
+</p>
+
+---
+
+### 🌍 Find Me Outside the Dino Cave
+
+<p>
+  <!-- Replace these with your real links -->
+  <a href="https://www.linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</h1>
+  <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
-
-### 👨‍💻 About Me
-
-- 🧠 Building and exploring **Modern Full-Stack Apps**
-- 🌱 Currently Learning: **Web3 + Rust**
-- 💡 Passionate about **creative tech, deep systems & automation**
-- 🎨 I blend design + tech to build delightful UIs
-- 🎸 Fun Fact: Tech + Art is my vibe 😄
-
----
-
-### 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://img.shields.io/badge/JavaScript-FFD600?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-grey?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Electron-2C2E3B?style=for-the-badge&logo=electron&logoColor=white" />
+  <em>“Code like a T-Rex: tiny arms, huge impact.”</em> 🦖
 </p>
-
----
-
-### 🚀 Current Goals
-
-- 🔗 Contribute to open-source Web3 tools
-- 🏗 Deploy beautifully crafted products with smooth UI/UX
-- 🔐 Dive deeper into low-level Rust power
-
----
-
-### ✨ Featured Projects
-
-| Name | Description | Tech |
-|------|-------------|------|
-| 🎬 Desktop App Experiments | UI-focused Electron desktop apps | **Electron**, JS |
-| 🌐 Web Full-Stack Projects | API + UI workflows | Node, Express, Next.js |
-| 🛠 Automation Tools | Simplifying workflows | Node.js |
-
-🔎 Check all my projects → [GitHub Repositories](https://github.com/BoondiKaLadu?tab=repositories)
-
----
-
-### 📈 GitHub Analytics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BoondiKaLadu&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=BoondiKaLadu&theme=tokyonight"/>
-</p>
-
----
-
-### 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-<a href="mailto:"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
----
-
-<h3 align="center">⚡ Code. Create. Evolve.</h3>
