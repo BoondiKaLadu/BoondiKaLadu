@@ -4,8 +4,8 @@
   <img src="https://your-dino-gif-url.com/dino.gif" alt="Dino" width="160" />
 </p>
 
-<h1 align="center">RAWR! I'm Aditya 🦖</h1>
-<h3 align="center">Ex-founder & Astute techie who loves mixing tech, art, and tiny dinosaurs.</h3>
+<h1 align="center"> I'm Aditya </h1>
+<h3 align="center">Ex-founder & Astute techie with a passion for Tech and Art</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?size=24&duration=2500&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Node+%7C+Next.js+%7C+Tailwind+Enthusiast;Learning+Web3+and+Rust;Building+cool+things+since+the+Jurassic+era+🦕" alt="Typing SVG" />
@@ -18,7 +18,6 @@
 - 🧠 I enjoy building **modern full-stack apps** that feel smooth and intuitive  
 - 🌱 Currently learning: **Web3** & **Rust**  
 - 🎨 I love combining **tech + art** to create aesthetic and useful projects  
-- 🦕 Fun fact: If something breaks, I *debug like a velociraptor*—fast and focused  
 
 ---
 
@@ -51,13 +50,11 @@
 | 🦕 **Course-selling-app** | Backend for a course selling platform with auth, routes, and non-SQL backend | Node, Express, JavaScript |
 | 🎼 **SimpMusic (fork)** | Simple music app powered by YouTube Music backend | Kotlin |
 | 🛡️ **Adversarial AI Framework (fork)** | Robust malware detection using adversarial AI techniques | Jupyter, ML |
-| 🌐 **100xDevs Cohort Projects** | WebDev + DevOps assignments, notes & experiments | JavaScript, Node |
 
-> Explore more fossils (repos) here: [@BoondiKaLadu](https://github.com/BoondiKaLadu?tab=repositories)
 
 ---
 
-### 📊 Dino Stats
+### 📊 Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=BoondiKaLadu&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -70,7 +67,7 @@
 
 ---
 
-### 🌍 Find Me Outside the Dino Cave
+### 🌍 Find Me 
 
 <p>
   <!-- Replace these with your real links -->
@@ -84,6 +81,3 @@
 
 ---
 
-<p align="center">
-  <em>“Code like a T-Rex: tiny arms, huge impact.”</em> 🦖
-</p>
