@@ -13,7 +13,7 @@
 - 🧠 Building and exploring **Modern Full-Stack Apps**
 - 🌱 Currently Learning: **Web3 + Rust**
 - 💡 Passionate about **creative tech, Making an impact with Tech**
-- 🌱 I am might also learning to develop in Java, using Angular and Vue
+- 🌱 I might also learn to develop in Java, using Angular and Vue
 ---
 
 ### 🛠️ Tech Stack
